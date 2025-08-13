@@ -13,13 +13,13 @@ The goal: maximize parking utilization and revenue while reducing congestion.
 - Modular, reproducible pipeline
 
 ## 📊 Data
-- **Source:** [Synthetic/Opendata if available]
+- **Source:** see attached csv file 
 - Columns: Occupancy, Capacity, TrafficConditionNearby, QueueLength, IsSpecialDay, VehicleType, Latitude, Longitude.
 
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter/Colab
-- Optional: Streamlit for interactive dashboards
+  
 
 ## 📂 Project Structure
 
